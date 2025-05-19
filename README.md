@@ -1,6 +1,7 @@
 # Space Invaders: Enhanced Edition
 
-![Game Screenshot](screenshot.png) *Пример скриншота игры*
+![image](https://github.com/user-attachments/assets/871ebdc0-f05d-4a2e-938e-98b065db1d5e)
+пример на скриншоте
 
 Полноценный клон классической игры Space Invaders с современными улучшениями, написанный на C++ с использованием библиотеки Raylib.
 
